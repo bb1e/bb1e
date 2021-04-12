@@ -10,7 +10,7 @@
 - 🌸 Pronouns: she/her
 - 🌸 Fun fact: I also play some instruments and play video games a lot!
 
-[![Barbie GitHub stats](https://github-readme-stats.vercel.app/api?username=bbarbie&hide=contribs&show_icons=true&theme=jolly)](https://github.com/bbarbie/github-readme-stats)
+[![Barbie GitHub stats](https://github-readme-stats.vercel.app/api?username=bbarbie&show_icons=true&theme=jolly)](https://github.com/bbarbie/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbarbie&layout=compact&theme=jolly)](https://github.com/bbarbie/github-readme-stats)
 
