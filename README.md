@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/bbarbie/bbarbie/main/header.jpg)
 
 
-                      🌸 About me 🌸
+                🌸 About me 🌸
 
 - 🌸 I’m currently a computer science student
 - 🌸 I’m currently learning a bunch of things
