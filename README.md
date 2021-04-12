@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/bbarbie/bbarbie/main/header1.jpg)
+![](https://raw.githubusercontent.com/bbarbie/bbarbie/main/header.jpg)
 
 
 About me:
