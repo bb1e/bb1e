@@ -20,6 +20,8 @@
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=bbarbie&theme=jolly)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+[![bbarbie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bbarbie&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 <details>
