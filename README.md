@@ -8,7 +8,7 @@
 - 🌸 Ask me about anything
 - 🌸 How to reach me: [Instagram](https://www.instagram.com/wierd.gamer/)
 - 🌸 Pronouns: she/her
-- 🌸 Fun fact: I also play some instruments and play video games a lot!
+- 🌸 Fun fact: I also play some instruments and play video games a lot! 
 
 [![Barbie GitHub stats](https://github-readme-stats.vercel.app/api?username=bbarbie&show_icons=true&theme=jolly&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
