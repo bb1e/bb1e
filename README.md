@@ -32,7 +32,7 @@
 
 -OS 
 
--Math softwares
+-Math softwares 
 
 </details>
 
