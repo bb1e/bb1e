@@ -4,7 +4,7 @@
   🌸 About me 🌸
 
 - 🌸 I’m a computer science student
-- 🌸 I’m currently learning a bunch of things
+- 🌸 Currently learning a bunch of things
 - 🌸 Ask me about anything
 - 🌸 How to reach me: [Instagram](https://www.instagram.com/wierd.gamer/)
 - 🌸 Pronouns: she/her
