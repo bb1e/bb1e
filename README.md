@@ -8,7 +8,7 @@
 - 🌸 Ask me about anything
 - 🌸 How to reach me: [Instagram](https://www.instagram.com/wierd.gamer/)
 - 🌸 Pronouns: she/her
-- 🌸 Fun fact: I also play some instruments and play video games a lot! 
+- 🌸 Fun fact: I also play some instruments and love video games! 
 
 [![Barbie GitHub stats](https://github-readme-stats.vercel.app/api?username=bbarbie&show_icons=true&theme=jolly&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbarbie&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,6 +33,7 @@
 
 -Math softwares 
 
+
 </details>
 
 
@@ -44,5 +45,4 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z54QUF1)
 ## <img height="80" src="https://raw.githubusercontent.com/bbarbie/bbarbie/main/kuromi.gif"/>
 
-
- 
+ [jolly_repo]: https://github.com/bbarbie/ScriptWordStats/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=jolly
