@@ -76,7 +76,7 @@
 ##
 
 <p align="center">
-<img height="80" src="https://raw.githubusercontent.com/bbarbie/bbarbie/main/kuromi.gif"/><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ddaadd&size=25&center=true&vCenter=true&lines=Passionate+Learner!;Computer+Science+Lover;Open+Source+Contributor;Nerd+Nekogirl;Nyan+(=^･ω･^=)">
+<img height="80" src="https://raw.githubusercontent.com/bbarbie/bbarbie/main/kuromi.gif"/><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ddaadd&size=25&center=true&vCenter=true&lines=Passionate+Learner!;Computer+Science+Lover+<3;Open+Source+Contributor;Nerd+Nekogirl;Nyan+(=^･ω･^=)">
 </p>
 
  [jolly_repo]: https://github.com/bbarbie/ScriptWordStats/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=jolly
