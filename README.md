@@ -11,8 +11,12 @@
 
 ## 📈 Stats & Tools 🔧
 
-[![Barbie GitHub stats](https://github-readme-stats.vercel.app/api?username=bbarbie&show_icons=true&theme=jolly&hide=prs)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbarbie&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bbarbie&show_icons=true&theme=jolly&hide=prs&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbarbie&layout=compact&langs_count=6&theme=jolly"/>
+</div>
+<br>
 
 <details>
   
