@@ -7,7 +7,6 @@
 - 🌸 Ask me about anything
 - 🌸 How to reach me: [Instagram](https://www.instagram.com/wierd.gamer/)
 - 🌸 Pronouns: she/her
-- 🌸 Fun fact: I play some instruments and love video games! 
 
 ## 📈 Stats & Tools 🔧
 
