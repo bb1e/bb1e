@@ -7,7 +7,7 @@
 - 🌸 Ask me about anything
 - 🌸 How to reach me: [Instagram](https://www.instagram.com/wierd.gamer/)
 - 🌸 Pronouns: she/her
-- 🌸 I belive in a world where the way you look, gender or mental diversity doesn't rule how good you are doing your job
+- 🌸 I belive in a world where the way you look, gender or neurodiversity doesn't rule how good you are doing your job
 
 ## 📈 Stats & Tools 🔧
 
