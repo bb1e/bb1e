@@ -13,8 +13,8 @@
 
 <br>
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bbarbie&show_icons=true&theme=jolly&hide=prs&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbarbie&layout=compact&langs_count=6&theme=jolly"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bb1e&show_icons=true&theme=jolly&hide=prs&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bb1e&layout=compact&langs_count=6&theme=jolly"/>
 </div>
 <br>
 
@@ -22,7 +22,7 @@
   
 <summary>📈 More GitHub Stats</summary>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=bbarbie&theme=jolly)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=bb1e&theme=jolly)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </details>
 
