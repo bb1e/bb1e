@@ -5,7 +5,7 @@
 - 🌸 I’m a computer science student
 - 🌸 Currently learning a bunch of things
 - 🌸 Ask me about anything
-- 🌸 How to reach me: [Instagram](https://www.instagram.com/wierd.gamer/)
+- 🌸 How to reach me: [Linkedin](https://www.linkedin.com/in/bruna-leal-4a3a79251/)
 - 🌸 Pronouns: she/her
 - 🌸 I belive in a world where the way you look, gender or neurodiversity doesn't rule how good you are doing your job
 
